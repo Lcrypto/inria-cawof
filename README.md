@@ -1,5 +1,11 @@
 # CAWOF
 
+
+Dependency use GNU Science Library:
+under ubuntu use
+sudo apt-get install gsl-bin libgsl0-dev
+
+
 ## InriaForge project 
 
 This github repository is a clone of the InriaForge SVN project CAWOF:
